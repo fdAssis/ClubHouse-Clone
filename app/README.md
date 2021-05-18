@@ -1,10 +1,27 @@
-# ClubHouse Clone Template
+# ClubHouse Clone Template - Semana JS Expert 4.0
+
+Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
+
+Marque esse projeto com uma estrela 🌟
+
+## Preview
+
+### Página de Login
+
+<img src="./assets/printscreen/clubhouse-login.PNG" width="300" alt="Login" />
+
+### Página de Salas
+
+<img src="./assets/printscreen/clubhouse-home.PNG" width="300" alt="Home" />
+
+### Página de Sala
+
+<img src="./assets/printscreen/clubhouse-room.PNG" width="300" alt="Room" />
 
 ## Checklist Features
 
 - [ ] O app deve funcionar na Web, Android e IOS
 - Login
-
   - [ ] Deve ter login com GitHub
     - [ ] Se houver dados do usuario em localStorage deve ir para lobby direto
 
@@ -17,8 +34,8 @@
   - [ ] Pode acessar salas ativas
 - Room
   - [ ] Se não houver dados do usuario em localStorage deve voltar para login
-  - [ ] Cria uma sala com um usuário dono
-  - [ ] Todos usuários futuros entram com perfil de attendees
+  - [x] Cria uma sala com um usuário dono
+  - [x] Todos usuários futuros entram com perfil de attendees
   - [ ] Notifica Lobby sobre atualizações na sala
   - [ ] Lista usuarios com perfis de speakers e attendees
   - [ ] Se o dono da sala desconectar, será removida
